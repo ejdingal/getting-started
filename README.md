@@ -19,6 +19,8 @@ Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
 
 You'll need a hawaii.edu email address to join on your own, but you can [email](greyhats@hawaii.edu) us for an invitation if you don't have one.
 
+Check out the following [link](https://slackmojize.herokuapp.com/) to make any image into a slack emoji :D
+
 ## 4. Join the Github Organization
 Some of the materials and projects we work on will be hosted on Github. We have created an organization to organize some of our assets.
 
