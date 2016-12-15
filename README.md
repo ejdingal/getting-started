@@ -9,7 +9,7 @@ This serves as a document for getting involved.
 Before you can participate in any official events you'll need to do a bit of paperwork. Downlaoad, fill out, sign, and turn in our [Code of Conduct](https://github.com/uhmgreyhats/getting-started/blob/master/Grey%20Hats%20Computer%20Security%20and%20Ethics%20Agreement.docx) form to [Gerald Lau](glau@hawaii.edu).
 
 ## 2. Regular Meeting Time
-For Spring 2017, meeting time TBD (feel free to contact us if we haven't put a time and date down by the end of the first week). Go through the double doors on the first floor. It'll be the last door on the right. If the door isn't open, knock. If no one answers, we're not there yet.
+For Spring 2017, meeting time TBD (feel free to contact us if we haven't put a time and weekday down by the end of the first week). Go through the double doors on the first floor. It'll be the last door on the right. If the door isn't open, knock. If no one answers, we're not there yet.
 
 ## 3. Join Slack
 Slack is what we use for the majority of our communications.
