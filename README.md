@@ -36,34 +36,29 @@ Join our [mailing list](http://eepurl.com/ccSw3r) for infrequent newsletters
 
 ## 5. Basic Skills
 
+***Capture the Flag***
+
+CTF is the game of hackers. Check out [this](http://captf.com/practice-ctf/) site for websites to practice at.
+
 ***Command Line***
 
-The command line is what hackers use to interact with programs, so get comfortable with it.
+The [command line](https://www.codecademy.com/learn/learn-the-command-line) is what hackers use to interact with programs, so get comfortable with it.
 
-[Codecademy Bash Beginners Course](https://www.codecademy.com/learn/learn-the-command-line)
+***Hacksplaining***
 
-***Programming Language***
-
-Learning the basics of at least one programming language is essential.
-C/C++ is common in hacker challenges, but Python is an excellent place to start.
-
-[C Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
-
-[Codecademy Python Beginners Course](https://www.codecademy.com/learn/python)
-
-***Netowrking***
-
-Get familiar with the basics of networking and how the internet works.
-
-[Networking Tutorial for Beginners](https://www.youtube.com/watch?v=xpXhudbsrr8)
+There are many attack vectors, and the follow [tutorial](https://www.hacksplaining.com) will take you through the most popular.
 
 ***Linux***
 
-Linux is the quintessential hacker operating system. There are a lot of distributions, but [Ubuntu](http://www.ubuntu.com/desktop) is a good to one to get your feet wet with. Check out [Linux Journey](linuxjourney.com) to learn about the operating system in detail.
+Linux is the quintessential hacker operating system. Most start with [Ubuntu](http://www.ubuntu.com/desktop), but check out [Linux Journey](linuxjourney.com) to learn about linux detail.
 
-***CTF***
+***Netowrking***
 
-Capture the Flag is the game of hackers. Check out [this](http://captf.com/practice-ctf/) site for websites to practice at.
+Get familiar with how computer [networks](https://www.youtube.com/watch?v=xpXhudbsrr8) work.
+
+***Programming***
+
+Knowing how to program essential, and [Python](https://www.codecademy.com/learn/python) is an great place to start.
 
 ---
 
