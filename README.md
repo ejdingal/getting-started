@@ -8,6 +8,16 @@ This serves as a document for getting involved.
 ## 1. Code of Conduct
 Before you can participate in any official competitions, you'll need to downlaoad, fill out, sign, and turn in the [Code of Conduct](https://github.com/uhmgreyhats/getting-started/blob/master/Grey%20Hats%20Computer%20Security%20and%20Ethics%20Agreement.docx) form to [Gerald Lau](glau@hawaii.edu).
 
+Below are a few informal rules to make the club more plesant for everyone
+
+[Social Rules](https://www.recurse.com/manual#sub-sec-social-rules)
+
+[The Hacker Attitude](http://www.catb.org/esr/faqs/hacker-howto.html#attitude)
+
+[The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
+
+[Rules for Ethical Hacking](https://comexpo-cyber-security.blogspot.com/2014/08/ten-important-rules-of-ethical-hacking.html)
+
 ## 2. Meeting Time
 For Spring 2017, we'll meet weekly on Thursdays 4:30p at Keller 105. Go through the double doors on the first floor. It'll be the last door on the right.
 
@@ -22,7 +32,7 @@ GreyHats@UHM Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
 
 You'll need a hawaii.edu email address to join on your own, but you can [email](greyhats@hawaii.edu) us for an invitation if you don't have one.
 
-Check out the following [link](https://slackmojize.herokuapp.com/) to make any image into a slack emoji :squirrel:
+Check out [here](https://slackmojize.herokuapp.com/) or [here](http://jsdo.it/y.hatt/eVaL) to custome slack emojis :squirrel:
 
 ***Google Calendar***
 
