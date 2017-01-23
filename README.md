@@ -64,7 +64,11 @@ Knowing how to program essential, and [Python](https://www.codecademy.com/learn/
 
 Some light reading to get you in the right mindset
 
+[How To Become a Hacker](https://youtu.be/tlezBUdD53w)
+
 [Rules for Ethical Hacking](https://comexpo-cyber-security.blogspot.com/2014/08/ten-important-rules-of-ethical-hacking.html)
+
+[So You Want to Work in Security?](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23)
 
 [Social Rules](https://www.recurse.com/manual#sub-sec-social-rules)
 
