@@ -52,7 +52,7 @@ There are many attack vectors, and the follow [tutorial](https://www.hacksplaini
 
 Linux is the quintessential hacker operating system. Most start with [Ubuntu](http://www.ubuntu.com/desktop), but check out [Linux Journey](linuxjourney.com) to learn about linux detail.
 
-***Netowrking***
+***Networking***
 
 Get familiar with how computer [networks](https://www.youtube.com/watch?v=xpXhudbsrr8) work.
 
