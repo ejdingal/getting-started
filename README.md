@@ -42,7 +42,7 @@ CTF is the game of hackers. Check out [this](http://captf.com/practice-ctf/) sit
 
 ***Command Line***
 
-The [command line](https://www.codecademy.com/learn/learn-the-command-line) is what hackers use to interact with programs, so get comfortable with it.
+The [command line](https://github.com/uhmgreyhats/examples/blob/master/howto:command-line.md) is what hackers use to interact with programs, so get comfortable with it.
 
 ***Hacksplaining***
 
