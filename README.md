@@ -18,7 +18,7 @@ For Spring 2017, we'll meet weekly on Thursdays 4:30p at Keller 105. Go through 
 Slack is what we use for the majority of our communications.
 You can [download](https://slack.com/downloads) the desktop client or use the [web app](https://slack.com/).
 
-GreyHats@UHM Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
+GreyHats@UHM Slack Channel: [***greyhatsuhm***](https://join.slack.com/greyhatsuhm/signup)
 
 You'll need a hawaii.edu email address to join on your own, but you can [email](greyhats@hawaii.edu) us for an invitation if you don't have one.
 
