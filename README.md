@@ -9,7 +9,7 @@ This serves as a document for getting involved.
 Before you can participate in any official competitions, you'll need to downlaoad, fill out, sign, and turn in the [Code of Conduct](https://github.com/uhmgreyhats/getting-started/blob/master/Grey%20Hats%20Computer%20Security%20and%20Ethics%20Agreement.docx) form to [Gerald Lau](glau@hawaii.edu).
 
 ## 2. Meeting Time
-For Spring 2017, we'll meet weekly on Thursdays 4:30p at Keller 105. Go through the double doors on the first floor. It'll be the last door on the right.
+Meeting times for Fall 2017 will be posted here at the start of the semester. Meetings will be held in Keller 105. To get there go through the double doors on the first floor and walk to the end of the hall.
 
 ## 3. Get in the Loop
 
@@ -22,8 +22,6 @@ GreyHats@UHM Slack Channel: [***greyhatsuhm***](https://join.slack.com/greyhatsu
 
 You'll need a hawaii.edu email address to join on your own, but you can [email](greyhats@hawaii.edu) us for an invitation if you don't have one.
 
-Check out [here](https://slackmojize.herokuapp.com/) or [here](http://jsdo.it/y.hatt/eVaL) to custome slack emojis :squirrel:
-
 ***Google Calendar***
 
 Check our [our](https://calendar.google.com/calendar/embed?src=greyhats%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
@@ -32,13 +30,13 @@ https://calendar.google.com/calendar/ical/greyhats%40hawaii.edu/public/basic.ics
 
 ***Mailchimp***
 
-Join our [mailing list](http://eepurl.com/ccSw3r) for infrequent newsletters
+Join our [mailing list](http://eepurl.com/ccSw3r) for infrequent newsletters!
 
 ## 5. Basic Skills
 
 ***Capture the Flag***
 
-CTF is the game of hackers. Check out [this](http://captf.com/practice-ctf/) site for websites to practice at.
+CTFs are a great way to learn and hone your cybersecurity skills. Check out the competititions channel on slack or [this](http://captf.com/practice-ctf/) site for upcoming CTFs.
 
 ***Command Line***
 
@@ -46,11 +44,11 @@ The [command line](https://github.com/uhmgreyhats/examples/blob/master/howto:com
 
 ***Hacksplaining***
 
-There are many attack vectors, and the follow [tutorial](https://www.hacksplaining.com) will take you through the most popular.
+There are many attack vectors, and the following [tutorial](https://www.hacksplaining.com) will take you through the most popular.
 
 ***Linux***
 
-Linux is the quintessential hacker operating system. Most start with [Ubuntu](http://www.ubuntu.com/desktop), but check out [Linux Journey](linuxjourney.com) to learn about linux detail.
+Linux is the quintessential hacker operating system. Most start with [Ubuntu](http://www.ubuntu.com/desktop), but check out [Linux Journey](linuxjourney.com) to learn about linux in detail.
 
 ***Networking***
 
