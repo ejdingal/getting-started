@@ -34,7 +34,7 @@ https://calendar.google.com/calendar/ical/greyhats%40hawaii.edu/public/basic.ics
 
 Join our [mailing list](http://eepurl.com/ccSw3r) for infrequent newsletters
 
-## 5. Basic Skills
+## 4. Basic Skills
 
 ***Capture the Flag***
 
