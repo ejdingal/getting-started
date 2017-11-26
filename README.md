@@ -62,6 +62,8 @@ Knowing how to program essential, and [Python](https://www.codecademy.com/learn/
 
 Some light reading to get you in the right mindset
 
+[How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
+
 [How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
 
 [So You Want to Work in Security?](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23)
