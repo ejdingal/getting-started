@@ -63,15 +63,11 @@ Knowing how to program essential, and [Python](https://www.codecademy.com/learn/
 Some light reading to get you in the right mindset
 
 [How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
-
 [How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
-
+[I’m harvesting credit card numbers and passwords from your site](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 [So You Want to Work in Security?](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23)
-
 [The Hacker Attitude](http://www.catb.org/esr/faqs/hacker-howto.html#attitude)
-
 [The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
-
 [The Hacker Manifesto](http://phrack.org/issues/7/3.html)
 
 ---
