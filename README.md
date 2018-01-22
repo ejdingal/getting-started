@@ -9,7 +9,7 @@ This serves as a document for getting involved.
 Before you can participate in any official competitions, you'll need to downlaoad, fill out, sign, and turn in the [Code of Conduct](https://github.com/uhmgreyhats/getting-started/blob/master/Grey%20Hats%20Computer%20Security%20and%20Ethics%20Agreement.docx) form to [Gerald Lau](glau@hawaii.edu).
 
 ## 2. Meeting Time
-Meeting times for Fall 2017 will be posted here at the start of the semester. Meetings will be held in Keller 105. To get there go through the double doors on the first floor and walk to the end of the hall.
+Meetings will be held in Keller 305 every Monday at 4:30pm during Spring 2018.
 
 ## 3. Get in the Loop
 
