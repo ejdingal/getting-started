@@ -36,7 +36,7 @@ Join our [mailing list](http://eepurl.com/ccSw3r) for infrequent newsletters!
 
 ***Capture the Flag***
 
-CTFs are a great way to learn and hone your cybersecurity skills. Check out the competititions channel on slack or [this](http://captf.com/practice-ctf/) site for upcoming CTFs.
+CTFs are a great way to learn and hone your cybersecurity skills. Check out the competititions channel on slack or [this](http://captf.com/practice-ctf/) site to prep.
 
 ***Command Line***
 
@@ -48,7 +48,7 @@ There are many attack vectors, and the following [tutorial](https://www.hackspla
 
 ***Linux***
 
-Linux is the quintessential hacker operating system. Most start with [Ubuntu](http://www.ubuntu.com/desktop), but check out [Linux Journey](linuxjourney.com) to learn about linux in detail.
+Linux is the quintessential hacker operating system. Most start with [Ubuntu](http://www.ubuntu.com/desktop), but check out [Linux Journey](https://www.linuxjourney.com/) to learn about it in detail.
 
 ***Networking***
 
@@ -62,13 +62,13 @@ Knowing how to program essential, and [Python](https://www.codecademy.com/learn/
 
 Some light reading to get you in the right mindset
 
-[How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
-[How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
-[I’m harvesting credit card numbers and passwords from your site](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
-[So You Want to Work in Security?](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23)
-[The Hacker Attitude](http://www.catb.org/esr/faqs/hacker-howto.html#attitude)
-[The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
-[The Hacker Manifesto](http://phrack.org/issues/7/3.html)
+ - [How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
+ - [How I hacked my friend without her noticing](https://defaultnamehere.tumblr.com/post/163734466355/operation-luigi-how-i-hacked-my-friend-without#jfuf232n3)
+ - [I’m harvesting credit card numbers and passwords from your site](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+ - [So You Want to Work in Security?](https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23)
+ - [The Hacker Attitude](http://www.catb.org/esr/faqs/hacker-howto.html#attitude)
+ - [The Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics)
+ - [The Hacker Manifesto](http://phrack.org/issues/7/3.html)
 
 ---
 
